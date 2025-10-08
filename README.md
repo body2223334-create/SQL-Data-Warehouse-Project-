@@ -9,6 +9,7 @@ The goal is to create a single point of truth for business data by applying conc
 ⚪ Silver Layer → Data cleaning & standardization
 
 🟡 Gold Layer → Business-ready data for analytics
+____________________________________________________________________
 
 🔑 Key Features
 
@@ -21,6 +22,7 @@ The goal is to create a single point of truth for business data by applying conc
 🏷️ Naming Conventions → <SourceSystem>_<Entity> for consistency
 
 💾 Historical Data Management → Tracking changes in data
+____________________________________________________________________
 
 🛠️ Tech Stack
 
@@ -29,7 +31,7 @@ The goal is to create a single point of truth for business data by applying conc
 🟦 Azure (Data storage & services — cloud-based)
 
 🐙 GitHub (Version control & repository management)
-
+____________________________________________________________________
 📂 Repository Structure
 📁 DWH-Project
  ┣ 📂 Datasets        # Source data (placeholders)
@@ -37,6 +39,7 @@ The goal is to create a single point of truth for business data by applying conc
  ┣ 📂 Docs 
  ┣ 📂 tests 
  ┗ 📄 README.md       # Project overview
+ ____________________________________________________________________
 
 🎯 Learning Outcomes
 
@@ -49,6 +52,7 @@ The role of primary, foreign, and surrogate keys
 How to manage naming conventions & technical columns
 
 Why DWH acts as a single source of truth
+____________________________________________________________________
 
 👨‍💻 About Me
 
